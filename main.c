@@ -3,7 +3,7 @@
 int main() 
 {
     int i;
-    scanf("%lx", &i);
+    scanf("%ld", &i);
     printf("%x",i); 
     return 0;
 }
